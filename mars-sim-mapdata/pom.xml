@@ -23,7 +23,7 @@
 		<dependency>
 			<groupId>me.lemire.integercompression</groupId>
 			<artifactId>JavaFastPFOR</artifactId>
-			<version>0.1.9</version>
+			<version>0.1.12</version>
 		</dependency>	
 		<!-- https://mvnrepository.com/artifact/com.google.guava/guava : 2.6 MB -->
 		<dependency>
