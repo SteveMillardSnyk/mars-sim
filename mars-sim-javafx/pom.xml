@@ -218,7 +218,7 @@
 		<dependency>
 			<groupId>com.github.almasb</groupId>
 			<artifactId>fxgl</artifactId>
-			<version>0.5.4</version>	
+			<version>11.3</version>	
 		</dependency> 
 	<!-- https://mvnrepository.com/artifact/org.reactfx/reactfx : 418 KB 
 		 Needed by https://mvnrepository.com/artifact/org.fxmisc.flowless/flowless/0.5.2 in mars-sim-ui's pom.xml 
